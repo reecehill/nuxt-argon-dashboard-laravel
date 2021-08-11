@@ -1,0 +1,6 @@
+{
+  "appId": "localhost.no1tutors.app",
+  "appName": "Student Tracker",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
